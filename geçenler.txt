@@ -1,0 +1,16 @@
+Beyza Usta: Ortalama=90.6, Harf Notu=AA
+Emre Geniş: Ortalama=94.0, Harf Notu=AA
+Emine Gür: Ortalama=55.400000000000006, Harf Notu=DD
+Ayşe Şen: Ortalama=50.5, Harf Notu=FD
+Selin Kutlu: Ortalama=51.2, Harf Notu=FD
+Melek Mor: Ortalama=56.400000000000006, Harf Notu=DD
+Zişan Değirmen: Ortalama=54.5, Harf Notu=FD
+Zahide Kılıç: Ortalama=78.0, Harf Notu=CB
+Emine Gelin: Ortalama=55.6, Harf Notu=DD
+Arif Koyun: Ortalama=70.4, Harf Notu=CC
+Hayat Gül: Ortalama=72.4, Harf Notu=CC
+Can Can: Ortalama=63.599999999999994, Harf Notu=DC
+Merve Tok: Ortalama=61.2, Harf Notu=DC
+Nebahat Kıl: Ortalama=53.0, Harf Notu=FD
+Fatih Fahri: Ortalama=72.9, Harf Notu=CC
+Esra Ekici: Ortalama=55.1, Harf Notu=DD
